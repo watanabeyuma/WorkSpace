@@ -1,7 +1,7 @@
 aaa
-<<<<<<< HEAD
+
 bbb
-=======
+
 ddd
 lll
->>>>>>> test
+
